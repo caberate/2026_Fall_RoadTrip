@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "8739823d8dcc04df",
+    "type": "split",
+    "children": [
+      {
+        "id": "97693c49ac15a18b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0efaf04aad4da315",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Travel_Journal/Day_20_Winnipeg/funs_of_day.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "funs_of_day"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b5e17a2108e783a",
+    "type": "split",
+    "children": [
+      {
+        "id": "066274f8973be4ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3242d7bceb43bccf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "183dbb6c36e05947",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b9390732a785a25f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "518c52dd4e447c12",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3f01349d1a0afa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28e300c280788866",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hotel_info.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c3fa63bc455a811e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "hotel_info.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f0cfe5d002fe3cae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1e8e0b196a3784ee",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0e9172e621fd9d62",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "hotel_info.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "9e1d41da6b7054c8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "agent-client:Open agent client": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "realclaudian:Open Claudian": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "0efaf04aad4da315",
+  "lastOpenFiles": [
+    "Travel_Journal/Day_23_Sault_Ste_Marie/hotel_info.md",
+    "Travel_Journal/Day_23_Sault_Ste_Marie/funs_of_day.md",
+    "Travel_Journal/Day_22_Thunder_Bay/hotel_info.md",
+    "Travel_Journal/Day_22_Thunder_Bay/funs_of_day.md",
+    "Travel_Journal/Day_21_Kenora/hotel_info.md",
+    "Travel_Journal/Day_21_Kenora/funs_of_day.md",
+    "Media/Day_23_Sault_Ste_Marie/Videos",
+    "Media/Day_23_Sault_Ste_Marie/Photos",
+    "Media/Day_23_Sault_Ste_Marie",
+    "Media/Day_22_Thunder_Bay/Videos",
+    "Media/Day_22_Thunder_Bay/Photos",
+    "Media/Day_22_Thunder_Bay",
+    "Media/Day_21_Kenora/Videos",
+    "Media/Day_21_Kenora/Photos",
+    "Media/Day_21_Kenora",
+    "Travel_Journal/Day_23_Sault_Ste_Marie",
+    "Travel_Journal/Day_18_Saskatoon/funs_of_day.md",
+    "Travel_Journal/Day_17_Edmonton/funs_of_day.md",
+    "Travel_Journal/Day_17_Edmonton/hotel_info.md",
+    "Travel_Journal/Day_16_Jasper/funs_of_day.md",
+    "Travel_Journal/Day_15_Jasper/funs_of_day.md",
+    "Travel_Journal/Day_14_Jasper_East_Gates/funs_of_day.md",
+    "Travel_Journal/Day_13_Jasper/funs_of_day.md",
+    "Travel_Journal/Day_12_Jasper/funs_of_day.md",
+    "Travel_Journal/Day_03_Seattle/funs_of_day.md",
+    "Travel_Journal/Day_14_Brule_Mines/hotel_info.md",
+    "Travel_Journal/Day_14_Jasper_East_Gates/hotel_info.md",
+    "Travel_Journal/Day_03_Seattle/hotel_info.md",
+    "Travel_Journal/Day_07_Vancouver/funs_of_day.md",
+    "Travel_Journal/Day_06_Vancouver/funs_of_day.md",
+    "Travel_Journal/Day_05_Surrey/funs_of_day.md",
+    "Travel_Journal/Day_04_Vancouver/hotel_info.md",
+    "Travel_Journal/Day_04_Surrey/hotel_info.md",
+    "Travel_Journal/Day_04_Surrey/funs_of_day.md",
+    "Travel_Journal/Day_16_Jasper/hotel_info.md",
+    "Travel_Journal/Day_15_Jasper/hotel_info.md"
+  ]
+}
