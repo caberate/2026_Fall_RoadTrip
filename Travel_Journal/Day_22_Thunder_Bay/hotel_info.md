@@ -8,7 +8,7 @@ tags:
 
 # 第 22 天 — Thunder Bay 酒店信息
 
-## 已确认住宿
+## 实际住宿
 
 - **酒店：** Quality Inn & Suites Thunder Bay Downtown
 - **城市：** Thunder Bay, Ontario
@@ -17,7 +17,7 @@ tags:
 - **住宿晚数：** 1 晚
 - **总价：** CAD 283.57
 - **取消条件：** Free cancellation
-- **状态：** Confirmed（已确认）
+- **状态：** Completed（已完成）
 - **信息来源：** Booking.com 订单记录
 
 ## 待补充

@@ -4,22 +4,29 @@ date: 2026-10-01
 tags:
   - 酒店
   - Sault_Ste_Marie
-  - United_States
+  - Ontario
 ---
 
 # 第 23 天 — Sault Ste. Marie 酒店信息
 
-## 已确认住宿
+## 实际住宿
 
-- **酒店：** Baymont by Wyndham Sault Ste Marie MI
-- **城市：** Sault Ste. Marie, Michigan
+- **酒店：** Comfort Inn Sault Ste Marie ON
+- **城市：** Sault Ste. Marie, Ontario
 - **入住日期：** 2026-10-01
 - **退房日期：** 2026-10-02
 - **住宿晚数：** 1 晚
-- **总价：** CAD 159
-- **取消条件：** Free cancellation
-- **状态：** Confirmed（已确认）
+- **总价：** CAD 288.51
+- **状态：** Completed（已完成）
 - **信息来源：** Booking.com 订单记录
+
+## 已取消住宿
+
+- **酒店：** Baymont by Wyndham Sault Ste Marie MI
+- **城市：** Sault Ste. Marie, Michigan
+- **原日期：** 2026-10-01 至 2026-10-02
+- **原价格：** CAD 160
+- **状态：** Canceled（已取消）
 
 ## 待补充
 

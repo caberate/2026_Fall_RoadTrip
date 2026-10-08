@@ -2,16 +2,17 @@
 title: 第 23 天 — Sault Ste. Marie — 行程记录
 date: 2026-10-01
 day: 23
-location: Sault Ste. Marie, Michigan
+location: Sault Ste. Marie, Ontario
 tags:
   - 行程
   - Sault_Ste_Marie
-  - United_States
+  - Ontario
 ---
 
 # 第 23 天 — Sault Ste. Marie
 
-**星期四，2026-10-01** · Thunder Bay → Sault Ste. Marie, Michigan
+**星期四，2026-10-01** · Thunder Bay → Sault Ste. Marie, Ontario
+1946年10纵骑兵师长王？ 山
 
 ## 当天安排
 今天路线改成：
@@ -26,8 +27,8 @@ The Ouimet Canyon is the largest canyon in Ontario，从 Hwy 11/17 转进去后�
 
 
 - [ ] 从 Thunder Bay 沿 Lake Superior 北岸向东行驶。
-- [ ] 在 Sault Ste. Marie 过境进入 United States。
-- [ ] 入住 **Baymont by Wyndham Sault Ste Marie MI**。
+- [x] 留在 Ontario 一侧，没有在当天过境进入 United States。
+- [x] 入住 **Comfort Inn Sault Ste Marie ON**。
 - [ ] 补充途中停留、过境情况和用餐地点。
 
 ## 天气情况
@@ -38,11 +39,12 @@ The Ouimet Canyon is the largest canyon in Ontario，从 Hwy 11/17 转进去后�
 ## 安全与过境提醒
 
 - Lake Superior 北岸路段不赶夜路，留意 moose、雾和低温。
-- 出发前检查护照、车辆登记、保险和入境要求。
-- 预留边境等候时间，不为赶入住而疲劳驾驶。
+- 将护照、车辆登记、保险和入境要求留待之后实际过境时检查。
+- 不为赶入住而疲劳驾驶。
 
 ## 链接
 
 - 酒店：[[hotel_info]]
 - 前一天：[[../Day_22_Thunder_Bay/funs_of_day|第 22 天 — Thunder Bay]]
+- 下一天：[[../Day_24_Barrie/funs_of_day|第 24 天 — Barrie]]
 - 总计划：[[../../Travel_Plan]]

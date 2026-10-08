@@ -8,7 +8,7 @@ tags:
 
 # 第 21 天 — Kenora 酒店信息
 
-## 已确认住宿
+## 实际住宿
 
 - **酒店：** The Trail Inn - Kenora, ON - On Longbow Lake
 - **城市：** Kenora, Ontario
@@ -16,7 +16,7 @@ tags:
 - **退房日期：** 2026-09-30，上午 11:00 前
 - **住宿晚数：** 1 晚
 - **总价：** CAD 303.97
-- **状态：** Confirmed（已确认）
+- **状态：** Completed（已完成）
 - **信息来源：** Booking.com 订单记录
 
 ## 待补充

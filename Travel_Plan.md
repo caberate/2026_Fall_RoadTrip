@@ -54,12 +54,27 @@ date: 2026-09-20
 - [[Travel_Journal/Day_22_Thunder_Bay/funs_of_day|第 22 天 — Thunder Bay（星期三，9 月 30 日）]]
 - [[Travel_Journal/Day_22_Thunder_Bay/hotel_info|第 22 天 — Thunder Bay 酒店：Quality Inn & Suites]]
 - [[Travel_Journal/Day_23_Sault_Ste_Marie/funs_of_day|第 23 天 — Sault Ste. Marie（星期四，10 月 1 日）]]
-- [[Travel_Journal/Day_23_Sault_Ste_Marie/hotel_info|第 23 天 — Sault Ste. Marie 酒店：Baymont by Wyndham]]
+- [[Travel_Journal/Day_23_Sault_Ste_Marie/hotel_info|第 23 天 — Sault Ste. Marie 酒店：Comfort Inn]]
+- [[Travel_Journal/Day_24_Barrie/funs_of_day|第 24 天 — Barrie（星期五，10 月 2 日）]]
+- [[Travel_Journal/Day_24_Barrie/hotel_info|第 24 天 — Barrie 酒店：Quality Inn]]
+- [[Travel_Journal/Day_25_Toronto/funs_of_day|第 25 天 — Toronto（星期六，10 月 3 日；住朋友家）]]
+- [[Travel_Journal/Day_26_Dwight/funs_of_day|第 26 天 — Dwight（星期日，10 月 4 日）]]
+- [[Travel_Journal/Day_26_Dwight/hotel_info|第 26 天 — Dwight 酒店：Algonquin Lakeside Resort]]
+- [[Travel_Journal/Day_27_Ottawa/funs_of_day|第 27 天 — Ottawa（星期一，10 月 5 日）]]
+- [[Travel_Journal/Day_27_Ottawa/hotel_info|第 27 天 — Ottawa 酒店：WelcomINNS Ottawa]]
+- [[Travel_Journal/Day_28_Rockland/funs_of_day|第 28 天 — Rockland（星期二，10 月 6 日）]]
+- [[Travel_Journal/Day_28_Rockland/hotel_info|第 28 天 — Rockland 酒店：RiverRock Inn]]
+- [[Travel_Journal/Day_29_Rigaud/funs_of_day|第 29 天 — Rigaud（星期三，10 月 7 日）]]
+- [[Travel_Journal/Day_29_Rigaud/hotel_info|第 29 天 — Rigaud 酒店：Travelodge by Wyndham Rigaud]]
+- [[Travel_Journal/Day_30_Quebec_City/funs_of_day|第 30 天 — Quebec City（星期四，10 月 8 日）]]
+- [[Travel_Journal/Day_30_Quebec_City/hotel_info|第 30 天 — Quebec City 酒店：Terminus Hôtel]]
+- [[Travel_Journal/Day_31_Quebec_City/funs_of_day|第 31 天 — Quebec City（星期五，10 月 9 日）]]
+- [[Travel_Journal/Day_31_Quebec_City/hotel_info|第 31 天 — Quebec City 酒店：Terminus Hôtel]]
 
 ## 路线框架
 
 > [!summary] 暂定路线
-> **Silicon Valley → Golden Gate Bridge → Ukiah（Days Inn by Wyndham Ukiah）→ Crescent City（North Coast Inn）→ Seattle（朋友家）→ Surrey（朋友家）→ Vancouver（朋友家）→ Vernon → Golden（The Cache Hotel and Lodgings）→ Jasper（Jasper East Hostel）→ Brule Mines（Jasper Gates Resort）→ Edmonton（Royal Hotel West Edmonton）→ Saskatoon（Country Inn & Suites by Radisson）→ Brandon（Lakeview Inns & Suites）→ Winnipeg（Humphry Inn and Suites）→ Kenora（The Trail Inn）→ Thunder Bay（Quality Inn & Suites）→ Sault Ste. Marie, Michigan（Baymont by Wyndham）** → 后续路段待确认。
+> **Silicon Valley → Golden Gate Bridge → Ukiah（Days Inn by Wyndham Ukiah）→ Crescent City（North Coast Inn）→ Seattle（朋友家）→ Surrey（朋友家）→ Vancouver（朋友家）→ Vernon → Golden（The Cache Hotel and Lodgings）→ Jasper（Jasper East Hostel）→ Brule Mines（Jasper Gates Resort）→ Edmonton（Royal Hotel West Edmonton）→ Saskatoon（Country Inn & Suites by Radisson）→ Brandon（Lakeview Inns & Suites）→ Winnipeg（Humphry Inn and Suites）→ Kenora（The Trail Inn）→ Thunder Bay（Quality Inn & Suites）→ Sault Ste. Marie, Ontario（Comfort Inn）→ Barrie（Quality Inn）→ Toronto（朋友家）→ Dwight（Algonquin Lakeside Resort）→ Ottawa（WelcomINNS Ottawa）→ Rockland（RiverRock Inn）→ Rigaud（Travelodge by Wyndham Rigaud）→ Quebec City（Terminus Hôtel）** → 后续路段待确认。
 
 ### 固定安排
 
@@ -203,9 +218,16 @@ date: 2026-09-20
 - [x] Edmonton：第 17 天，2026-09-25
 - [x] Saskatoon：第 18 天，2026-09-26
 - [x] Brandon：第 19 天，2026-09-27
-- [ ] Winnipeg：第 20 天，2026-09-28
-- [ ] Kenora：第 21 天，2026-09-29
-- [ ] Thunder Bay：第 22 天，2026-09-30
-- [ ] Sault Ste. Marie, Michigan：第 23 天，2026-10-01
+- [x] Winnipeg：第 20 天，2026-09-28
+- [x] Kenora：第 21 天，2026-09-29
+- [x] Thunder Bay：第 22 天，2026-09-30
+- [x] Sault Ste. Marie, Ontario：第 23 天，2026-10-01
+- [x] Barrie：第 24 天，2026-10-02
+- [x] Toronto 朋友家：第 25 天，2026-10-03
+- [x] Dwight：第 26 天，2026-10-04
+- [x] Ottawa：第 27 天，2026-10-05
+- [x] Rockland：第 28 天，2026-10-06
+- [ ] Rigaud：第 29 天，2026-10-07
+- [ ] Quebec City：第 30–31 天，2026-10-08 至 2026-10-09
 - [ ] 添加 Jasper 活动
 - [ ] 仅在确认安全的情况下记录已确认的预订编号
