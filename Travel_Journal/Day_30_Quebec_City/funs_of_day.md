@@ -16,6 +16,12 @@ tags:
 ## 当天安排
 
 - [ ] 从 Rigaud 前往 Quebec City。
+- [ ] Stop at T&T Montreal to Resupply
+- [ ] Visit Mount Royal 
+- [ ] Parc national de la Yamaska 
+- [ ] Parc national du Mont-Orford, beautiful fall color, impressive 
+- [ ] Drive to Quebec City
+- [ ] 
 - [ ] 下午 4:00 后入住 **Terminus Hôtel**，连续住宿两晚。
 - [ ] 补充途中停留、当天活动和用餐地点。
 

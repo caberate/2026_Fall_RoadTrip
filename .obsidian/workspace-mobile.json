@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travel_Journal/Day_23_Sault_Ste_Marie/funs_of_day.md",
+                "file": "Travel_Journal/Day_35_Jersey_City/funs_of_day.md",
                 "mode": "source",
                 "source": false
               },
@@ -117,6 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Travel_Journal/Day_29_Rigaud/funs_of_day.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -186,6 +187,9 @@
   },
   "active": "8fb276d93d65c5e2",
   "lastOpenFiles": [
+    "Travel_Journal/Day_29_Rigaud/funs_of_day.md",
+    "Travel_Journal/Day_30_Quebec_City/funs_of_day.md",
+    "Travel_Journal/Day_23_Sault_Ste_Marie/funs_of_day.md",
     "README.md",
     "Travel_Journal/Day_19_Brandon/funs_of_day.md",
     "Travel_Journal/Day_17_Edmonton/hotel_info.md",

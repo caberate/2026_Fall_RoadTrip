@@ -13,10 +13,15 @@ tags:
 
 **星期三，2026-10-07** · Rockland → Rigaud
 
-## 当天安排
 
+## 当天安排
+今天吃了泰国菜
 - [x] 从 Rockland 前往 Rigaud。
-- [ ] 下午 3:00 后入住 **Travelodge by Wyndham Rigaud**。
+- [ ] Stop by T&T Ottawa
+- [ ] Mud lake hike, bird feeding, ice cream shop
+- [ ] Pink lake
+- [ ] 下午 10pm入住 **Travelodge by Wyndham Rigaud**。very good big king room, Jakuzi bathtub.
+- [ ] 
 - [ ] 补充途中停留、当天活动和用餐地点。
 
 ## 天气情况

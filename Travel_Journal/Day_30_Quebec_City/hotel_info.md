@@ -9,7 +9,7 @@ tags:
 
 # 第 30 天 — Quebec City 酒店信息
 
-## 已确认住宿
+## 实际住宿
 
 - **酒店：** Terminus Hôtel
 - **城市：** Quebec City, Québec
@@ -17,7 +17,7 @@ tags:
 - **退房日期：** 2026-10-10，上午 11:00 前
 - **住宿晚数：** 2 晚
 - **总价：** CAD 429.50
-- **状态：** Confirmed（已确认）
+- **状态：** Completed（已完成）
 - **信息来源：** Booking.com 订单记录
 
 ## 待补充

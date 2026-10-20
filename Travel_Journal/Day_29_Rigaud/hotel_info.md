@@ -9,7 +9,7 @@ tags:
 
 # 第 29 天 — Rigaud 酒店信息
 
-## 已确认住宿
+## 实际住宿
 
 - **酒店：** Travelodge by Wyndham Rigaud
 - **城市：** Rigaud, Québec
@@ -18,7 +18,7 @@ tags:
 - **住宿晚数：** 1 晚
 - **总价：** CAD 174.57
 - **早餐时间：** 7:00–10:00 AM
-- **状态：** Confirmed（已确认）
+- **状态：** Completed（已完成）
 - **信息来源：** Booking.com 订单记录
 
 ## 待补充

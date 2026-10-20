@@ -70,11 +70,26 @@ date: 2026-09-20
 - [[Travel_Journal/Day_30_Quebec_City/hotel_info|第 30 天 — Quebec City 酒店：Terminus Hôtel]]
 - [[Travel_Journal/Day_31_Quebec_City/funs_of_day|第 31 天 — Quebec City（星期五，10 月 9 日）]]
 - [[Travel_Journal/Day_31_Quebec_City/hotel_info|第 31 天 — Quebec City 酒店：Terminus Hôtel]]
+- [[Travel_Journal/Day_32_Boston/funs_of_day|第 32 天 — Boston（星期六，10 月 10 日；住朋友家）]]
+- [[Travel_Journal/Day_33_Boston/funs_of_day|第 33 天 — Boston（星期日，10 月 11 日；住朋友家）]]
+- [[Travel_Journal/Day_34_Boston/funs_of_day|第 34 天 — Boston（星期一，10 月 12 日；住朋友家）]]
+- [[Travel_Journal/Day_35_Jersey_City/funs_of_day|第 35 天 — Jersey City（星期二，10 月 13 日）]]
+- [[Travel_Journal/Day_35_Jersey_City/hotel_info|第 35 天 — Jersey City 酒店：Holland Hotel Jersey City Free Parking]]
+- [[Travel_Journal/Day_36_Jersey_City/funs_of_day|第 36 天 — Jersey City（星期三，10 月 14 日）]]
+- [[Travel_Journal/Day_36_Jersey_City/hotel_info|第 36 天 — Jersey City 酒店：Holland Hotel Jersey City Free Parking]]
+- [[Travel_Journal/Day_37_Burke/funs_of_day|第 37 天 — Burke（星期四，10 月 15 日；住同学家）]]
+- [[Travel_Journal/Day_38_Athens/funs_of_day|第 38 天 — Athens（星期五，10 月 16 日；住朋友家）]]
+- [[Travel_Journal/Day_39_Athens/funs_of_day|第 39 天 — Athens（星期六，10 月 17 日；住朋友家）]]
+- [[Travel_Journal/Day_40_Rochester_Hills/funs_of_day|第 40 天 — Rochester Hills（星期日，10 月 18 日；住同学家）]]
+- [[Travel_Journal/Day_41_Rochester_Hills/funs_of_day|第 41 天 — Rochester Hills（星期一，10 月 19 日；住同学家）]]
+- [[Travel_Journal/Day_42_Vernon_Hills/funs_of_day|第 42 天 — Vernon Hills（星期二，10 月 20 日）]]
+- [[Travel_Journal/Day_43_UIUC/funs_of_day|第 43 天 — UIUC（星期三，10 月 21 日）]]
+- [[Travel_Journal/Day_44_UIUC/funs_of_day|第 44 天 — UIUC（星期四，10 月 22 日）]]
 
 ## 路线框架
 
 > [!summary] 暂定路线
-> **Silicon Valley → Golden Gate Bridge → Ukiah（Days Inn by Wyndham Ukiah）→ Crescent City（North Coast Inn）→ Seattle（朋友家）→ Surrey（朋友家）→ Vancouver（朋友家）→ Vernon → Golden（The Cache Hotel and Lodgings）→ Jasper（Jasper East Hostel）→ Brule Mines（Jasper Gates Resort）→ Edmonton（Royal Hotel West Edmonton）→ Saskatoon（Country Inn & Suites by Radisson）→ Brandon（Lakeview Inns & Suites）→ Winnipeg（Humphry Inn and Suites）→ Kenora（The Trail Inn）→ Thunder Bay（Quality Inn & Suites）→ Sault Ste. Marie, Ontario（Comfort Inn）→ Barrie（Quality Inn）→ Toronto（朋友家）→ Dwight（Algonquin Lakeside Resort）→ Ottawa（WelcomINNS Ottawa）→ Rockland（RiverRock Inn）→ Rigaud（Travelodge by Wyndham Rigaud）→ Quebec City（Terminus Hôtel）** → 后续路段待确认。
+> **Silicon Valley → Golden Gate Bridge → Ukiah（Days Inn by Wyndham Ukiah）→ Crescent City（North Coast Inn）→ Seattle（朋友家）→ Surrey（朋友家）→ Vancouver（朋友家）→ Vernon → Golden（The Cache Hotel and Lodgings）→ Jasper（Jasper East Hostel）→ Brule Mines（Jasper Gates Resort）→ Edmonton（Royal Hotel West Edmonton）→ Saskatoon（Country Inn & Suites by Radisson）→ Brandon（Lakeview Inns & Suites）→ Winnipeg（Humphry Inn and Suites）→ Kenora（The Trail Inn）→ Thunder Bay（Quality Inn & Suites）→ Sault Ste. Marie, Ontario（Comfort Inn）→ Barrie（Quality Inn）→ Toronto（朋友家）→ Dwight（Algonquin Lakeside Resort）→ Ottawa（WelcomINNS Ottawa）→ Rockland（RiverRock Inn）→ Rigaud（Travelodge by Wyndham Rigaud）→ Quebec City（Terminus Hôtel）→ Boston（朋友家）→ Jersey City（Holland Hotel Jersey City Free Parking）→ Burke（同学家）→ Athens（朋友家）→ Rochester Hills（同学家）→ Vernon Hills（朋友家）→ UIUC** → 后续路段待确认。
 
 ### 固定安排
 
@@ -227,7 +242,14 @@ date: 2026-09-20
 - [x] Dwight：第 26 天，2026-10-04
 - [x] Ottawa：第 27 天，2026-10-05
 - [x] Rockland：第 28 天，2026-10-06
-- [ ] Rigaud：第 29 天，2026-10-07
-- [ ] Quebec City：第 30–31 天，2026-10-08 至 2026-10-09
+- [x] Rigaud：第 29 天，2026-10-07
+- [x] Quebec City：第 30–31 天，2026-10-08 至 2026-10-09
+- [x] Boston 朋友家：第 32–34 天，2026-10-10 至 2026-10-12
+- [x] Jersey City：第 35–36 天，2026-10-13 至 2026-10-14
+- [x] Burke 同学家：第 37 天，2026-10-15
+- [x] Athens 朋友家：第 38–39 天，2026-10-16 至 2026-10-17
+- [x] Rochester Hills 同学家：第 40–41 天，2026-10-18 至 2026-10-19
+- [x] Vernon Hills 朋友家：第 42 天，2026-10-20
+- [x] UIUC：第 43–44 天，2026-10-21 至 2026-10-22
 - [ ] 添加 Jasper 活动
 - [ ] 仅在确认安全的情况下记录已确认的预订编号
