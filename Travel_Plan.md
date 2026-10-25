@@ -84,12 +84,27 @@ date: 2026-09-20
 - [[Travel_Journal/Day_41_Rochester_Hills/funs_of_day|第 41 天 — Rochester Hills（星期一，10 月 19 日；住同学家）]]
 - [[Travel_Journal/Day_42_Vernon_Hills/funs_of_day|第 42 天 — Vernon Hills（星期二，10 月 20 日）]]
 - [[Travel_Journal/Day_43_UIUC/funs_of_day|第 43 天 — UIUC（星期三，10 月 21 日）]]
+- [[Travel_Journal/Day_43_UIUC/hotel_info|第 43 天 — UIUC 酒店：Country Inn & Suites by Radisson, Champaign North, IL]]
 - [[Travel_Journal/Day_44_UIUC/funs_of_day|第 44 天 — UIUC（星期四，10 月 22 日）]]
+- [[Travel_Journal/Day_44_UIUC/hotel_info|第 44 天 — UIUC 酒店：Country Inn & Suites by Radisson, Champaign North, IL]]
+- [[Travel_Journal/Day_45_Overland_Park/funs_of_day|第 45 天 — Overland Park（星期五，10 月 23 日）]]
+- [[Travel_Journal/Day_45_Overland_Park/hotel_info|第 45 天 — Overland Park 酒店：Aloft by Marriott Leawood-Overland Park]]
+- [[Travel_Journal/Day_46_Dallas/funs_of_day|第 46 天 — Dallas（星期六，10 月 24 日）]]
+- [[Travel_Journal/Day_46_Dallas/hotel_info|第 46 天 — Dallas 酒店：Embassy Suites by Hilton Dallas Near the Galleria]]
+- [[Travel_Journal/Day_47_Houston/funs_of_day|第 47 天 — Houston（星期日，10 月 25 日；住朋友家）]]
+- [[Travel_Journal/Day_48_Childress/funs_of_day|第 48 天 — Childress（星期一，10 月 26 日）]]
+- [[Travel_Journal/Day_48_Childress/hotel_info|第 48 天 — Childress 酒店：Budget Host Inn]]
+- [[Travel_Journal/Day_49_Albuquerque/funs_of_day|第 49 天 — Albuquerque（星期二，10 月 27 日）]]
+- [[Travel_Journal/Day_49_Albuquerque/hotel_info|第 49 天 — Albuquerque 酒店：Baymont by Wyndham Albuquerque Airport]]
+- [[Travel_Journal/Day_50_Kayenta/funs_of_day|第 50 天 — Kayenta（星期三，10 月 28 日）]]
+- [[Travel_Journal/Day_50_Kayenta/hotel_info|第 50 天 — Kayenta 酒店：Hampton Inn Kayenta Monument Valley]]
+- [[Travel_Journal/Day_51_Las_Vegas/funs_of_day|第 51 天 — Las Vegas（星期四，10 月 29 日）]]
+- [[Travel_Journal/Day_51_Las_Vegas/hotel_info|第 51 天 — Las Vegas 酒店：Tahiti All-Suite Resort]]
 
 ## 路线框架
 
 > [!summary] 暂定路线
-> **Silicon Valley → Golden Gate Bridge → Ukiah（Days Inn by Wyndham Ukiah）→ Crescent City（North Coast Inn）→ Seattle（朋友家）→ Surrey（朋友家）→ Vancouver（朋友家）→ Vernon → Golden（The Cache Hotel and Lodgings）→ Jasper（Jasper East Hostel）→ Brule Mines（Jasper Gates Resort）→ Edmonton（Royal Hotel West Edmonton）→ Saskatoon（Country Inn & Suites by Radisson）→ Brandon（Lakeview Inns & Suites）→ Winnipeg（Humphry Inn and Suites）→ Kenora（The Trail Inn）→ Thunder Bay（Quality Inn & Suites）→ Sault Ste. Marie, Ontario（Comfort Inn）→ Barrie（Quality Inn）→ Toronto（朋友家）→ Dwight（Algonquin Lakeside Resort）→ Ottawa（WelcomINNS Ottawa）→ Rockland（RiverRock Inn）→ Rigaud（Travelodge by Wyndham Rigaud）→ Quebec City（Terminus Hôtel）→ Boston（朋友家）→ Jersey City（Holland Hotel Jersey City Free Parking）→ Burke（同学家）→ Athens（朋友家）→ Rochester Hills（同学家）→ Vernon Hills（朋友家）→ UIUC** → 后续路段待确认。
+> **Silicon Valley → Golden Gate Bridge → Ukiah（Days Inn by Wyndham Ukiah）→ Crescent City（North Coast Inn）→ Seattle（朋友家）→ Surrey（朋友家）→ Vancouver（朋友家）→ Vernon → Golden（The Cache Hotel and Lodgings）→ Jasper（Jasper East Hostel）→ Brule Mines（Jasper Gates Resort）→ Edmonton（Royal Hotel West Edmonton）→ Saskatoon（Country Inn & Suites by Radisson）→ Brandon（Lakeview Inns & Suites）→ Winnipeg（Humphry Inn and Suites）→ Kenora（The Trail Inn）→ Thunder Bay（Quality Inn & Suites）→ Sault Ste. Marie, Ontario（Comfort Inn）→ Barrie（Quality Inn）→ Toronto（朋友家）→ Dwight（Algonquin Lakeside Resort）→ Ottawa（WelcomINNS Ottawa）→ Rockland（RiverRock Inn）→ Rigaud（Travelodge by Wyndham Rigaud）→ Quebec City（Terminus Hôtel）→ Boston（朋友家）→ Jersey City（Holland Hotel Jersey City Free Parking）→ Burke（同学家）→ Athens（朋友家）→ Rochester Hills（同学家）→ Vernon Hills（朋友家）→ UIUC / Champaign（Country Inn & Suites by Radisson）→ Overland Park（Aloft by Marriott Leawood-Overland Park）→ Dallas（Embassy Suites by Hilton Dallas Near the Galleria）→ Houston（朋友家）→ Childress（Budget Host Inn）→ Albuquerque（Baymont by Wyndham Albuquerque Airport）→ Kayenta（Hampton Inn Kayenta Monument Valley）→ Las Vegas（Tahiti All-Suite Resort）** → 后续路段待确认。
 
 ### 固定安排
 
@@ -250,6 +265,13 @@ date: 2026-09-20
 - [x] Athens 朋友家：第 38–39 天，2026-10-16 至 2026-10-17
 - [x] Rochester Hills 同学家：第 40–41 天，2026-10-18 至 2026-10-19
 - [x] Vernon Hills 朋友家：第 42 天，2026-10-20
-- [x] UIUC：第 43–44 天，2026-10-21 至 2026-10-22
+- [x] UIUC / Champaign：第 43–44 天，2026-10-21 至 2026-10-22（酒店）
+- [x] Overland Park：第 45 天，2026-10-23
+- [x] Dallas：第 46 天，2026-10-24
+- [x] Houston 朋友家：第 47 天，2026-10-25
+- [x] Childress：第 48 天，2026-10-26
+- [x] Albuquerque：第 49 天，2026-10-27
+- [x] Kayenta：第 50 天，2026-10-28
+- [x] Las Vegas：第 51 天，2026-10-29
 - [ ] 添加 Jasper 活动
 - [ ] 仅在确认安全的情况下记录已确认的预订编号

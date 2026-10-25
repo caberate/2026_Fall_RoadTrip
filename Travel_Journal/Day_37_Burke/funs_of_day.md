@@ -14,6 +14,11 @@ tags:
 **星期四，2026-10-15** · Burke, Virginia
 
 ## 当天记录
+川天下： 
+5700 Fishers Lane Suite A
+Rockville, MD 20852
+Total: 151.52 plus 20% tips = 181.82
+Next to USP office , street parking only
 
 - [x] 住在 Burke 同学家的 private house，不需要酒店信息。
 - [ ] 补充从 Jersey City 前往 Burke 的路线、途中停靠和抵达时间。
